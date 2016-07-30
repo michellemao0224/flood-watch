@@ -21,6 +21,7 @@ def setup_data_folders():
 
 def update_station_data():
     #QLD station lookup
+    index = 0
     station_lookup = get_stations_dict(station_coords_url)
     urls = get_station_urls(seed_url, base_domain)
     output_file_path = os.path.join(data_folder, output_file)
@@ -28,7 +29,11 @@ def update_station_data():
         fieldnames = ['station id', 'station name', 'river', 'basin', 'low danger level', 'mid danger level', 'high danger level', 'latitude', 'longatude', 'csv file location']    
         writer = csv.DictWriter(csv_parent, fieldnames=fieldnames)
         writer.writeheader()
+        print("Found {} urls during crawl.\nTime to collect data from each (will report for each 10 stations collected).".format(len(urls)))
         for url in urls:
+            index += 1
+            if index%10 == 0:
+                print("{} of {}".format(index, len(urls)))
             num, danger_heights, height_info = get_station_info(url)
             if danger_heights is None:
                 continue
