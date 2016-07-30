@@ -20,6 +20,7 @@ limitations under the License.
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:id="@+id/relativeLayout"
     android:background="@color/white">
 
     <TextView android:id="@+id/signUpButton"
@@ -60,11 +61,12 @@ limitations under the License.
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:id="@+id/bottom_text"
+        android:text="Flood Watch"
         android:layout_below="@+id/top_text"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
         android:textColor="@color/black"
-        android:textSize="17sp"
+        android:textSize="27sp"
         android:gravity="center_vertical|center_horizontal"
         android:textAlignment="gravity" />
 
@@ -72,12 +74,12 @@ limitations under the License.
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:text="Username"
         android:ems="10"
         android:id="@+id/username"
         android:layout_below="@+id/bottom_text"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="41dp" />
+        android:layout_marginTop="41dp"
+        android:text="Username" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -99,6 +101,7 @@ limitations under the License.
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="52dp"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:textColor="#626262" />
 
 </RelativeLayout>

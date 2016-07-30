@@ -1,8 +1,6 @@
 package com.onearth.floodwatch;
 
 import android.app.Activity;
-import android.content.Context;
-import android.content.ContextWrapper;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -11,7 +9,6 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
 import android.provider.MediaStore;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -20,7 +17,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.io.ByteArrayOutputStream;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -32,8 +32,9 @@ import java.net.URL;
 import java.util.Random;
 
 public class MsgActivity extends Activity {
-    TextView riverName;
-    TextView height;
+    TextView dialNum;
+    TextView description;
+    TextView state;
     ImageView floodImg;
     Button shareImg;
 
@@ -64,10 +65,14 @@ public class MsgActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_msg);
-        height = (TextView)findViewById(R.id.height);
-        riverName =(TextView)findViewById(R.id.riverName);
+        description = (TextView)findViewById(R.id.dialNum);
+        dialNum =(TextView)findViewById(R.id.dialNum);
         floodImg = (ImageView)findViewById(R.id.floodImg);
         shareImg = (Button)findViewById(R.id.shareImg);
+        state =(TextView)findViewById(R.id.state);
+            DownloadTask task = new DownloadTask();
+            //change link to dataset url (json format)
+            task.execute("http://environment.data.gov.uk/flood-monitoring/id/floodAreas?_limit=100");
     }
 
     public void SaveImage(Bitmap finalBitmap) {
@@ -115,7 +120,33 @@ public class MsgActivity extends Activity {
             }
             return null;
         }
+        @Override
+        protected void onPostExecute(String result) {
+            super.onPostExecute(result);
+
+            try {
+
+                JSONObject jsonObject = new JSONObject(result);
+
+                String riverInfo = jsonObject.getString("items");
+
+                JSONArray arr = new JSONArray(riverInfo);
+
+                for (int i = 0; i < arr.length(); i++) {
+
+                    JSONObject jsonPart = arr.getJSONObject(i);
+                    dialNum.setText("Quick Dial Num: " +jsonPart.getString("quickDialNumber"));
+                    state.setText("County: "+jsonPart.getString("eaRegionName"));
+                    description.setText("Description: " +jsonPart.getString("description"));
+                }
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+
+        }
     }
+
 
     public class ImageDownloader extends AsyncTask<String,Void,Bitmap>{
 

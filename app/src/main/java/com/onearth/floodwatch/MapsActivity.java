@@ -25,6 +25,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private GoogleMap mMap;
     LocationManager locationManager;
     String provider;
+    Location location;
 
     public void getMoreInfo(View view){
         Intent i = new Intent(getApplicationContext(), MsgActivity.class);
@@ -53,7 +54,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             return;
         }
         locationManager.requestLocationUpdates(provider, 400, 1, this);
-        Location location = locationManager.getLastKnownLocation(provider);
+        location = locationManager.getLastKnownLocation(provider);
         if(location != null){
             mMap.animateCamera(
                     CameraUpdateFactory.newLatLngZoom(
@@ -107,7 +108,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-
         // Add a marker in Sydney and move the camera
         LatLng sydney = new LatLng(-34, 151);
         mMap.addMarker(new MarkerOptions().position(sydney));
