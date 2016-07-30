@@ -18,14 +18,20 @@ android {
         }
     }
 }
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:24.1.0'
     compile group: 'com.ibm.mobilefirstplatform.clientsdk.android',
-            name:'core',
+            name: 'core',
             version: '2.+',
-            ext:'aar',
+            ext: 'aar',
             transitive: true
+    compile group: 'com.cloudant', name: 'cloudant-sync-datastore-android', version: 'latest.release'
+    compile 'com.android.support:appcompat-v7:24.1.0'
+    compile 'com.google.android.gms:play-services:9.2.1'
 }
