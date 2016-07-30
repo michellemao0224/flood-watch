@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.0_e5250ca9ff040967e5ab4b4787559ab09f5ec571/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.4/f2c0782541a970b3c15f5e742999ca264b34d0bd/okhttp-2.7.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2c0782541a970b3c15f5e742999ca264b34d0bd">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.4_7d181011b116fa665b1ff523c1f2e37983e745a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3fcba9a345b10ad1e46754253c02b4bbfb3309a7">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ce5a330b103ede3d3ab7156649bac172f193182/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.0_3587ec95b5b3869c4c06c83409d93832f7fad4a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.0_147989d6fe643f68f8ba3186f613c51c1defa40b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f103187c1528b8a66b96f5346b01200a7b971962/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_b5d45fca2771b0d93a5342a561791a2914a89ec2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0c7ebb4479f312388e67dc53c551b8c730fdc86">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4e4ee41ab1d3dd85d4c769149b25a5e3d3ba45df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/analyticsapi/1.0.0/ff60ab3e7cec43a71e0654bf5dee900b1e43e738/analyticsapi-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ff60ab3e7cec43a71e0654bf5dee900b1e43e738">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/analyticsapi-1.0.0_d83e6c060883e32930bb0a15468df559cad762eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.0_e9f7528b26c6e994a09c81949d3e547f691673d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.0_b1b5721761907eb7a05a59d65fd081969b8283d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/exploded-aar/com.ibm.mobilefirstplatform.clientsdk.android/core/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a1765d2b04acfc8ea223695008d24aa8a090c0a6">
+        <dex dex="/Users/Miyal/Desktop/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ibm.mobilefirstplatform.clientsdk.android-core-2.0.1_ae256616b7bac8a0b293f9f3eb22be9d627f80ff/classes.dex" />
+    </item>
+
+</items>
