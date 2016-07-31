@@ -24,7 +24,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Description: Areas near the River"
-        android:id="@+id/dialNum"
+        android:id="@+id/description"
         android:textSize="20sp"
         android:layout_below="@+id/dialNum"
         android:layout_alignParentLeft="true"

@@ -6,497 +6,497 @@
         jumboMode="true"
         revision="23.0.3"
         sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.2.1_34ed5c0df9c157d63b7368e74fc3b3febc6c5044.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.1_34ed5c0df9c157d63b7368e74fc3b3febc6c5044/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.2.1_97bc99ac415f74e77923650f31737b49c58dfeb6.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.1_97bc99ac415f74e77923650f31737b49c58dfeb6/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="9340c4f95a4e3916c9ad70296e24576743743712">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.0_1e209aa70c3c4ba4be49eccb5fa8f11810122f13.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.0_1e209aa70c3c4ba4be49eccb5fa8f11810122f13/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.1/82ad1c5f92f6dcc6291f5c46ebacb975eaa844de/jackson-core-2.1.1.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="82ad1c5f92f6dcc6291f5c46ebacb975eaa844de">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.1_4ea000aeabf10911c3add7a16139d2370c579999.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.1_4ea000aeabf10911c3add7a16139d2370c579999/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="8c7087216946c546f85a1242a2794c0f271e092c">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0_ea81c03144f16bb2b460b926345a16c451ab87a4.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.0_ea81c03144f16bb2b460b926345a16c451ab87a4/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.2.1_bf578e59a94c6b3bc3b4a675cea4a72b3cef1841.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.2.1_bf578e59a94c6b3bc3b4a675cea4a72b3cef1841/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.2.1_2d6cb6b16b832f40bc41031ccdb5304e029885ee.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.2.1_2d6cb6b16b832f40bc41031ccdb5304e029885ee/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.2.1_0e4fab1d6cb453ce0ff3d9e8bd053c12a1623d25.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.1_0e4fab1d6cb453ce0ff3d9e8bd053c12a1623d25/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_84f4e91511bea20fff8aaf06b378dfd960c102a1.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_84f4e91511bea20fff8aaf06b378dfd960c102a1/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="428c9bac95b2f72921224e289553a04bea61cda5">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.2.1_061a1776f7550edd56bdb855c216e475dabd2f5d.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.2.1_061a1776f7550edd56bdb855c216e475dabd2f5d/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.2.1_141119e380e8c5dc5511f9189be274b7ea463903.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.2.1_141119e380e8c5dc5511f9189be274b7ea463903/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.1.1/b01cc83e745fc4425a3968fafbf8e5b8254a6dd/jackson-annotations-2.1.1.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="0b01cc83e745fc4425a3968fafbf8e5b8254a6dd">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.1.1_2c3f8b97a6c99db27febdf8b9be0792083082fd0.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.1.1_2c3f8b97a6c99db27febdf8b9be0792083082fd0/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_77b575435048c760002c8c17ed19cf7b6e97fadf.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_77b575435048c760002c8c17ed19cf7b6e97fadf/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="e719de687ac45141de3dd613907860a495580af0">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.2.1_066ca607a35783c7e13914b06da2ee5ab2b37734.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.1_066ca607a35783c7e13914b06da2ee5ab2b37734/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.2.1_3f610cee6b63242d7557d2fecd280e6b2da81926.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.2.1_3f610cee6b63242d7557d2fecd280e6b2da81926/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.ibm.mobilefirstplatform.clientsdk.android/core/2.0.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="a1765d2b04acfc8ea223695008d24aa8a090c0a6">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.ibm.mobilefirstplatform.clientsdk.android-core-2.0.1_b85b24157412327b9f9caf114916fda48149e044.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ibm.mobilefirstplatform.clientsdk.android-core-2.0.1_b85b24157412327b9f9caf114916fda48149e044/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-contextmanager-9.2.1_98a756f65123e94269f25968d6438d1f50615718.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.2.1_98a756f65123e94269f25968d6438d1f50615718/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.2.1_800a0bba7f4a77d8a2e038ea5fd8441e8b77fc21.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.1_800a0bba7f4a77d8a2e038ea5fd8441e8b77fc21/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-sync-datastore-core/1.0.0/9233ac07133a4b7a05a59c0d5c63a5666e75b386/cloudant-sync-datastore-core-1.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="9233ac07133a4b7a05a59c0d5c63a5666e75b386">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/cloudant-sync-datastore-core-1.0.0_31f1141b47f8e5a15d4194921df39dead5ab1932.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/cloudant-sync-datastore-core-1.0.0_31f1141b47f8e5a15d4194921df39dead5ab1932/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.2.1_6667622e68f06287ec603dee667faa3f235ba8e6.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.2.1_6667622e68f06287ec603dee667faa3f235ba8e6/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.2.1_171959d72f8ec868117c399ee84fef08757d7411.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.2.1_171959d72f8ec868117c399ee84fef08757d7411/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.2.1_f7a5f4341318cc6ad16580be3b0c076aa7630cbc.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.2.1_f7a5f4341318cc6ad16580be3b0c076aa7630cbc/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.2.1_ed2654c1dd8846f3ca43f7c4860ab5061f2965db.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.1_ed2654c1dd8846f3ca43f7c4860ab5061f2965db/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.2.1_a2b8d66672de3ed93b84326a83a0b5462a55f275.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.1_a2b8d66672de3ed93b84326a83a0b5462a55f275/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_86690d222957b874fca45a0214f68c46c2b8ae89.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_86690d222957b874fca45a0214f68c46c2b8ae89/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.2.1_76146165d12d0586d07bbf74f0461118f3f61a5b.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.1_76146165d12d0586d07bbf74f0461118f3f61a5b/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.2.1_697957ab139e9f234a7b65826d3544d5f89be6c7.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_697957ab139e9f234a7b65826d3544d5f89be6c7/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.2.1_38ecacf7b4538a6f5f5a4337605bb40b61e80300.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.2.1_38ecacf7b4538a6f5f5a4337605bb40b61e80300/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_fc94eae962b284e100fe53c8d467c25c690fc79c.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_fc94eae962b284e100fe53c8d467c25c690fc79c/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="d064f813cd835f17853e39221b247cf6a997a2db">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.2.1_2da7363985a57e71b34504f5d37db439d6b88ed5.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.2.1_2da7363985a57e71b34504f5d37db439d6b88ed5/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.2.1_59e9b86088238e77eced46cc2360fd3d5acc57d0.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.1_59e9b86088238e77eced46cc2360fd3d5acc57d0/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/okio-1.6.0_f103187c1528b8a66b96f5346b01200a7b971962.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f103187c1528b8a66b96f5346b01200a7b971962/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.2.1_7cfc10fc0f33edfbfcd88846cf96621c7112cd48.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.2.1_7cfc10fc0f33edfbfcd88846cf96621c7112cd48/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="310ef01419435979cc82847cf085799a8d00e7e9">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.2.1_a47514bd41fe0606f6bff6c11b4dd86dda34aaa6.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.1_a47514bd41fe0606f6bff6c11b4dd86dda34aaa6/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.0_2a613b18eb92ed3b4f605a8fb698f6ad7ef7ad05.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.0_2a613b18eb92ed3b4f605a8fb698f6ad7ef7ad05/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.2.1_21034a8fc1214445ed8a229efbe4341ef0a33677.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.1_21034a8fc1214445ed8a229efbe4341ef0a33677/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="357a8702c49044417d4856861c8f435e7c74ef09">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.2.1_63179a18785eaf871f00fc44058d6e379c57bd8d.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.1_63179a18785eaf871f00fc44058d6e379c57bd8d/classes.dex" />
     </item>
     <item
         jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.2.1_f9b1646e0c06c13b00ad69bb124348a22a6f51c6.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.1_f9b1646e0c06c13b00ad69bb124348a22a6f51c6/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.2.1_0e1c3d15af98c27b081c96dbd3855bc9cededa0e.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_0e1c3d15af98c27b081c96dbd3855bc9cededa0e/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_dea2d11c4b462ffec9c6a0e32c576df114308263.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.0_dea2d11c4b462ffec9c6a0e32c576df114308263/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.2.1_dbdb9acf5e1784f4bc25d065112128dc99f2abb3.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.1_dbdb9acf5e1784f4bc25d065112128dc99f2abb3/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.2.1_038aff24e6f1bef0a0220930e2f453ea573a3f45.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.2.1_038aff24e6f1bef0a0220930e2f453ea573a3f45/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.4/f2c0782541a970b3c15f5e742999ca264b34d0bd/okhttp-2.7.4.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="f2c0782541a970b3c15f5e742999ca264b34d0bd">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/okhttp-2.7.4_7d181011b116fa665b1ff523c1f2e37983e745a7.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.7.4_7d181011b116fa665b1ff523c1f2e37983e745a7/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/guava-15.0_1a6b30f9f92e900ec01749f15ab77a4af1a01e9d.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-15.0_1a6b30f9f92e900ec01749f15ab77a4af1a01e9d/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.2.1_de40af3fbe1f71b24a449bd38f2da3f3e7d53f4c.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.2.1_de40af3fbe1f71b24a449bd38f2da3f3e7d53f4c/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.2.1_b19e9b6e16ee6c81da95a9cf46e910cff9cfae4c.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.2.1_b19e9b6e16ee6c81da95a9cf46e910cff9cfae4c/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="7bb417e9ac8645285342935679e75d371b58b62b">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.2.1_3044e8bf94385c5371c95623c6f8b0a9eecca253.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.2.1_3044e8bf94385c5371c95623c6f8b0a9eecca253/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="d8bea9aca91c86d23f419159f6cdc73bbc5b19df">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_12ad77ba2166a51b6f11d5044263005dd5044f05.jar" />
+        sha1="78a3cf6b3a8be5e1c49a0a733ff7c61c32432909">
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_12ad77ba2166a51b6f11d5044263005dd5044f05/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.2.1_17957172371160e75e36fbdd3752dc1806c1dfc0.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.2.1_17957172371160e75e36fbdd3752dc1806c1dfc0/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.0_313bb3c8829f48724003b359ab0f5a8c9c0d78f5.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.0_313bb3c8829f48724003b359ab0f5a8c9c0d78f5/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.2.1_59c63cc4abebc1201bb469d3849c7fb2e705c633.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_59c63cc4abebc1201bb469d3849c7fb2e705c633/classes.dex" />
     </item>
     <item
         jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/commons-codec-1.10_ce4872e80eba2cc282b3568a40f7b2cad47fe255.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.10_ce4872e80eba2cc282b3568a40f7b2cad47fe255/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.2.1_8dc769e2f88ca36bbcd1c16f40d91a3b6938c6fa.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_8dc769e2f88ca36bbcd1c16f40d91a3b6938c6fa/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.2.1_814d4ae755d36c9e3724b95f2e3ff0f5995b59d2.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_814d4ae755d36c9e3724b95f2e3ff0f5995b59d2/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.2.1_34836f11e3e422a17745cb9bd8878404ff41a916.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.2.1_34836f11e3e422a17745cb9bd8878404ff41a916/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.2.1_87664fff01093fa9eb213f05d56df674b60d3065.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.2.1_87664fff01093fa9eb213f05d56df674b60d3065/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.2.1_3b02bc0b6af9d49ba05c7608357bd643139fbbeb.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.2.1_3b02bc0b6af9d49ba05c7608357bd643139fbbeb/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.2.1_f263c24e78819da92dc7c8b308e787bd0ee9ad79.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.1_f263c24e78819da92dc7c8b308e787bd0ee9ad79/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.2.1_790eac3bf5df56e9fc422ec2b7bd617793380dbc.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_790eac3bf5df56e9fc422ec2b7bd617793380dbc/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-http/2.4.2/e9de4152c444cb83c07e5157bc763d494aa57f3/cloudant-http-2.4.2.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="0e9de4152c444cb83c07e5157bc763d494aa57f3">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/cloudant-http-2.4.2_06e560ba5ec783ff8e134d94619b32af5e7233a2.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/cloudant-http-2.4.2_06e560ba5ec783ff8e134d94619b32af5e7233a2/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="2506c5893e125e2f9cfc522378e893620c21b109">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.2.1_61cd078ebaf62cac4ab40f2fb9e7206e7aaf4910.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.1_61cd078ebaf62cac4ab40f2fb9e7206e7aaf4910/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.2.1_4d5edf6e7c593388215ee1288744dd3d5bf96eea.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.1_4d5edf6e7c593388215ee1288744dd3d5bf96eea/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_ed44277f48a0bba814bcf06fe841e558ddb27ef2.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_ed44277f48a0bba814bcf06fe841e558ddb27ef2/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_b5d45fca2771b0d93a5342a561791a2914a89ec2.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_b5d45fca2771b0d93a5342a561791a2914a89ec2/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.1.1/38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2/jackson-databind-2.1.1.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/jackson-databind-2.1.1_6d8896541f26706a9f2af86c2d5e2687c3550815.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.1.1_6d8896541f26706a9f2af86c2d5e2687c3550815/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="03c745596939d98ce2d0d91c2bc53c7cebcb17dd">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/instant-run_eb7ff3847061a17f9bf1f596b3e28c819d901fe4.jar" />
+        sha1="c36cfad77789101500fa1e8aba28bb2bc2879216">
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eb7ff3847061a17f9bf1f596b3e28c819d901fe4/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.cloudant/cloudant-sync-datastore-android/1.0.0/187ba27967fae4756a95993f548966cf683a352e/cloudant-sync-datastore-android-1.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="187ba27967fae4756a95993f548966cf683a352e">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/cloudant-sync-datastore-android-1.0.0_852e946f94f937687b1a73aaacd1b39c2cb088d4.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/cloudant-sync-datastore-android-1.0.0_852e946f94f937687b1a73aaacd1b39c2cb088d4/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.2.1_6748afb3bf4448824e1b547f28c6f68b8a79d1a8.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.1_6748afb3bf4448824e1b547f28c6f68b8a79d1a8/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/.gradle/caches/modules-2/files-2.1/com.ibm.mobilefirstplatform.clientsdk.android/analyticsapi/1.0.0/ff60ab3e7cec43a71e0654bf5dee900b1e43e738/analyticsapi-1.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ff60ab3e7cec43a71e0654bf5dee900b1e43e738">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/analyticsapi-1.0.0_d83e6c060883e32930bb0a15468df559cad762eb.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/analyticsapi-1.0.0_d83e6c060883e32930bb0a15468df559cad762eb/classes.dex" />
     </item>
     <item
         jar="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
-        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.2.1_7ea6b723a46625191d49f522ffbfc031f6e2ce7a.jar" />
+        <dex dex="/Users/Miyal/Desktop/Instagram clone/flood-watch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.2.1_7ea6b723a46625191d49f522ffbfc031f6e2ce7a/classes.dex" />
     </item>
 
 </items>
