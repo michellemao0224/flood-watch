@@ -1,0 +1,16 @@
+Suburb of Logan was chosen as proof of concept
+Red dot = Bureau of Meteorology sensors on local river stream
+
+Brisbane_Water_Observation_WOFS - Raw water observed from space (WOFS) data from Geoscience Aus.
+Brisbane_Superimposed_Risk_Profile - Superimposed radial risk profile 
+
+Logan_Elevation - Elevation data for suburb of Logan
+Logan_FAZ - Flood Affected Zone estimation ...
+Logan_WOFS - Raw WOFS from Geoscience Australia
+Logan_Superimposed_Risk_Profile - Superimposed risk profile ...
+
+Logan_On_Brisbane_Map - Map showing location of Logan
+
+Greater_Logan_FINAL_RESULTS_DEMO - Greater Logan region with: superimposed risk contour (in colour band) + elevation
+
+
