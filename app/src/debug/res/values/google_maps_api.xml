@@ -7,7 +7,7 @@
     https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=38:0F:C2:08:31:0A:65:93:1C:42:7E:3C:64:70:7A:4C:D6:58:8A:3B%3Bcom.onearth.floodwatch
 
     You can also add your credentials to an existing key, using this line:
-    38:0F:C2:08:31:0A:65:93:1C:42:7E:3C:64:70:7A:4C:D6:58:8A:3B;com.ibm.bms.samples.android.hellobluemix
+    38:0F:C2:08:31:0A:65:93:1C:42:7E:3C:64:70:7A:4C:D6:58:8A:3B;com.onearth.floodwatch
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key
@@ -15,7 +15,5 @@
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-          AIzaSyCzs4gou_QzoPouRXXsHL6hzz6j3q59aGU
-    </string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBtqLUyMu6a4On-yt0W0t0SbIt7SpZIBMM</string>
 </resources>

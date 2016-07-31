@@ -24,7 +24,9 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteStatement;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -57,11 +59,13 @@ import java.util.Map;
 /**
  * Main Activity implements Response listener for http request call back handling.
  */
-public class MainActivity extends Activity implements View.OnClickListener{
+public class MainActivity extends Activity implements View.OnClickListener, View.OnKeyListener{
     EditText usernameField;
     EditText passwordField;
     TextView changeSignUpModeTextView;
     TextView signUpButton;
+    SQLiteDatabase myDatabase;
+    Cursor c;
 
     Boolean signUpModeActive;
 
@@ -72,8 +76,9 @@ public class MainActivity extends Activity implements View.OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
+        while(c != null){
+            redirectUser();
+        }
         signUpModeActive = true;
 
         usernameField = (EditText) findViewById(R.id.username);
@@ -83,82 +88,92 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
         changeSignUpModeTextView.setOnClickListener(this);
 
-        try {
-            //initialize SDK with IBM Bluemix application ID and route
-            // You can find your backendRoute and backendGUID in the Mobile Options section on top of your Bluemix MCA dashboard
-            //TODO: Please replace <APPLICATION_ROUTE> with a valid ApplicationRoute and <APPLICATION_ID> with a valid ApplicationId
-            BMSClient.getInstance().initialize(this, "http://floodwatch.mybluemix.net", "：\n" +
-                    "005f7cca-f6cd-4c76-977a-80da3bbacb57", BMSClient.REGION_US_SOUTH);
-        }
-        catch (Exception e) {
-            signUpButton.setClickable(false);
-        }
+//        try {
+//            //initialize SDK with IBM Bluemix application ID and route
+//            // You can find your backendRoute and backendGUID in the Mobile Options section on top of your Bluemix MCA dashboard
+//            //TODO: Please replace <APPLICATION_ROUTE> with a valid ApplicationRoute and <APPLICATION_ID> with a valid ApplicationId
+//            BMSClient.getInstance().initialize(this, "http://floodwatch.mybluemix.net", "：\n" +
+//                    "005f7cca-f6cd-4c76-977a-80da3bbacb57", BMSClient.REGION_US_SOUTH);
+//        }
+//        catch (Exception e) {
+//            signUpButton.setClickable(false);
+//        }
     }
 
+    public void redirectUser(){
+        Intent i = new Intent(getApplicationContext(), MapsActivity.class);
+        startActivity(i);
+    }
+
+    @Override
+    public boolean onKey(View v, int keyCode, KeyEvent event) {
+
+
+        if (keyCode == KeyEvent.KEYCODE_ENTER && event.getAction() == KeyEvent.ACTION_DOWN) {
+
+            signUpOrLogIn(v);
+
+        }
+
+        return false;
+
+    }
     @Override
     public void onClick(View v) {
 
         if (v.getId() == R.id.changeSignUpMode) {
 
             if (signUpModeActive == true) {
-
                 signUpModeActive = false;
                 changeSignUpModeTextView.setText("Sign Up");
                 signUpButton.setText("Log In");
-
-
             } else {
-
                 signUpModeActive = true;
                 changeSignUpModeTextView.setText("Log In");
                 signUpButton.setText("Sign Up");
-
             }
-
+        } else if (v.getId() == R.id.top_text || v.getId() == R.id.bottom_text ||v.getId() == R.id.relativeLayout ){
+            InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+            imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
         }
 
     }
 
     public void signUpOrLogIn(View view) {
         try {
-            SQLiteDatabase myDatabase = this.openOrCreateDatabase("Users", MODE_PRIVATE, null);
+            myDatabase = this.openOrCreateDatabase("Users", MODE_PRIVATE, null);
             myDatabase.execSQL("CREATE TABLE IF NOT EXISTS users (username VARCHAR, password VARCHAR, id INTEGER PRIMARY KEY)");
-            Cursor c = myDatabase.rawQuery("SELECT * FROM Users", null);
-            int nameIndex = c.getColumnIndex("username");
-            int pwdIndex = c.getColumnIndex("password");
-            int idIndex = c.getColumnIndex("id");
-            c.moveToFirst();
 
             if (signUpModeActive == true) {
-
-                String sql = "INSERT INTO users (id, username, password) VALUES (?,?,?)";
-                SQLiteStatement statement = myDatabase.compileStatement(sql);
-                statement.bindString(1, String.valueOf(idIndex));
-                statement.bindString(2, String.valueOf(nameIndex));
-                statement.bindString(3, String.valueOf(pwdIndex));
-                statement.execute();
-
+                String sql = "INSERT INTO users (username, password) VALUES (?,?)";
+                SQLiteStatement statement = myDatabase.compileStatement(sql);;
+                statement.bindString(1, String.valueOf(usernameField.getText()));
+                statement.bindString(2, String.valueOf(passwordField.getText()));
+                statement.executeInsert();
+                redirectUser();
                 Toast.makeText(getApplicationContext(), "Sign Up Successful", Toast.LENGTH_SHORT).show();
-                Intent i = new Intent(getApplicationContext(), MapsActivity.class);
-                startActivity(i);
+
             } else {
+                c = myDatabase.rawQuery("SELECT * FROM Users", null);
+                int nameIndex = c.getColumnIndex("username");
+                int pwdIndex = c.getColumnIndex("password");
+                int idIndex = c.getColumnIndex("id");
+                c.moveToFirst();
                 while (c != null) {
-
-                    Log.i("UserResults - name", c.getString(nameIndex));
-                    Log.i("UserResults - age", Integer.toString(c.getInt(pwdIndex)));
-                    Log.i("UserResults - id", Integer.toString(c.getInt(idIndex)));
-
+                    if (c.getString(nameIndex).equals(String.valueOf(usernameField.getText())) &&
+                            c.getString(pwdIndex).equals(String.valueOf(passwordField.getText()))){
+                        Toast.makeText(getApplicationContext(), "Login Successful", Toast.LENGTH_SHORT).show();
+                        redirectUser();
+                    }
                     c.moveToNext();
                 }
-
-                Toast.makeText(getApplicationContext(), "Login Successful", Toast.LENGTH_SHORT).show();
-                Intent i = new Intent(getApplicationContext(), MapsActivity.class);
-                startActivity(i);
             }
 
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+
 
 
     }
