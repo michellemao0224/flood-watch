@@ -3,13 +3,13 @@
   concerning flooding hazard to the general public.  It takes in a
   diverse source of data, including terrain relief, river height
   sensor, and historic flood risks, and congregates these sources into
-  a single flood danger metric which is then overlayed onto the map.
+  a single flood danger metric which is then overlaid onto the map.
   The purpose of this tool is to provide any interested party with the
   information to make decisions in the event of an emergency.
 
   This repository contains both the front-end android application,
-  located in the ~android-dev~ folder, and the backend tools for
-  analysis, which includes webcrawler inside the ~StationDataCrawler~
+  located in the ~android-dev~ folder, and the back-end tools for
+  analysis, which includes web-crawler inside the ~StationDataCrawler~
   folder, and the image analysis tools inside the
   ~AnalysisBackend.zip~ file. Some preliminary results are provided
   in the ~PhotoResultsSubmission~ folder.
@@ -18,18 +18,41 @@
     The source code for the Android application is located in this
     folder. It can be built using the usual tools, and details are
     provided in a separate readme. Some screencaps of the application
-    are also provided inside the folder. Eventually, the purposeof
+    are also provided inside the folder. Eventually, the purpose of
     the app would be to fetch our calculated flood risk metric
     as a contour map for the user's geographical location.
 *** Station Data Crawler
     This is a set of Python tools which obtains the list of height
-    sensors for in rivers in queensland, and proceeds down the list,
+    sensors for in rivers in Queensland, and proceeds down the list,
     fetching the most recent readings from these sensors and storing
     the results in a ~csv~ file. Further usage details are located
     inside the ~read_me~ file in the folder.
-*** Analysis Backend
+*** Analysis Back-end
     This is the main tool used to analyse information from the
     separate sources and provide the output for the Android
     application. Right now it exists as several functions which
     must be chained together by hand, but eventually the process
     will be entirely automated.
+
+    The basic idea can be outlined below:
+    1. We fetch the elevation data of a local region from ~ELVIS~.
+    2. The river sensors are placed over the elevation data. For each
+       sensor, if the water height rises above the danger height we
+       can calculated the flooded regions or potentially flooded
+       regions (FAZ) using the elevation data near the sensor.
+    3. The second step is fetching the Water observation from space
+       data, which gives the number of occasions water was detected
+       for regions. This data is smeared over the entire map to provide
+       a probability for each region to be flooded.
+    4. The FAZ and historical flood probability data is then combined
+       to give a general risk metric. To do this, the flood
+       probability data is binned into three categories of high,
+       medium and low risk. Then combined with the binary FAZ data for
+       each point on the map we have a 6 degree scale describing the
+       current flooding risk.
+    5. This map of the general flooding risk can updated as frequently
+       as the river sensor data are to provide a fully dynamic picture
+       of flooding risk. The elevation and Wofs data can be updated at
+       less regular intervals when necessary.
+    6. The Android application simply provides a user friendly feature
+       to access this map, in addition to other useful functions.
